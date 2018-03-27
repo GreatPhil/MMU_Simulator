@@ -1,5 +1,5 @@
 # MMU_Simulator
-This is a simulation of an OS Memory Management Unit (MMU), including simulations of the virtual memory, backing store, page table, and TLB.  This was written as a HW assignment for CS543 (Operating Systems) @ Drexel University, in response to the "Programming Project" from Chapter 9 (Memory Mangement) of the assigned text (Operating System Concepts, 9th Edition, by A Silberschatz et. al.).
+This is a simulation of an OS Memory Management Unit (MMU), including simulations of the virtual memory, backing store, page table, and TLB.  This was written as a HW assignment for CS543 (Operating Systems) @ Drexel University, in response to the "Programming Project" from Chapter 9 (Memory Mangement) of the assigned text, _Operating System Concepts, 9th Edition, by A Silberschatz et. al._.
 
 ## Instructions
 
