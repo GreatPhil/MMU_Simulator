@@ -15,16 +15,13 @@ The file "memory_management.c" is the source code for the book assignment, inclu
 
 The code is set up, as is, to run the basic default assignment.  It has the hooks in it to perform the additional functionality as well.  In order to do the "Modifications" (page 461), change the line # 11 in "memory_management.c" as such:
 
-  - From: #define PHYS_MEM_SIZE        256
-
-  - To: #define PHYS_MEM_SIZE        128
+    FROM:    #define PHYS_MEM_SIZE        256
+    TO:      #define PHYS_MEM_SIZE        128
 
 In order to perform the additional functionality of testing with both READS AND WRITES:
 
-  - From: #define INPUT_ADDRESSES      "addresses/addresses.txt"
-
-  - To: #define INPUT_ADDRESSES      "addresses/addresses2.txt"
-
+    FROM:    #define INPUT_ADDRESSES      "addresses/addresses.txt"
+    TO:      #define INPUT_ADDRESSES      "addresses/addresses2.txt"
 
 Other Files:
 ------------
